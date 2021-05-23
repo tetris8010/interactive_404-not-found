@@ -7,6 +7,7 @@ concept : 방탈출, 미스테리, 추리
 <hr />
 
 references
+
 [10주차]
 * 김종민님 code 설명(sheep) : https://youtu.be/hCHL7sydzn0
 * 김종민님 code 설명(줄에 매달려 흔들리는 상자) : https://www.youtube.com/watch?v=XNxkVVK6m80
@@ -19,7 +20,7 @@ references
 [12주차]
 * Using images :  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images
 * CanvasRenderingContext2D.drawImage : https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
-* touch-action : https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action
-* 
+* touch-action : https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action 
+
+[etc]
 * https://mrdoob.com/#/142/winning_solitaire
-* 
